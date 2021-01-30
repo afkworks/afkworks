@@ -19,6 +19,12 @@ governance will look like.
 
 ## Sayings
 
+* "What's the most important thing I could be doing in the world right
+  now? And if I'm not working on it, why don't I start?" [\@Aaron
+  Swartz](https://pt.wikipedia.org/wiki/Aaron_Swartz) (according to
+  [\@Taren
+  Stinebrickner-Kauffman](https://en.wikipedia.org/wiki/Taren_Stinebrickner-Kauffman),
+  his partner)
 * "KEG, where knowledge brews" [\@Spationaute](https://twitch.tv/Spationaute)
 * "Forbidden knowledge must be wrapped in a paper bag." [\@vmt](https://twitch.tv/vmt)
 * "Package management for knowledge." 
